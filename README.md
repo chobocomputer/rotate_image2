@@ -17,7 +17,7 @@ in folder, all image(png, jpg, gif, bmp, pcx) auto rotate to want degree.
 
 5 program will make new folder and new image insert that folder.
 
-if image name is not number, programm will stop.
+if image name is not int number, programm will stop.
 
 if giuri_name.exe is not work, use giuri_name.py.
 
@@ -32,7 +32,7 @@ if giuri_name.exe is not work, use giuri_name.py.
 
 5 program will make new folder and new image insert that folder.
 
-if image name is not number, programm will stop.
+if degree.txt is not number, programm will stop.
 
 if giuri_txt.exe is not work, use giuri_txt.py.
 
@@ -60,7 +60,7 @@ this program use python, pillow, pyinstaller.
 
 5 프로그램은 새 폴더를 생성하고, 그 폴더에 새 이미지를 넣습니다.
 
-만약 이미지 파일 이름이 숫자가 아니라면, 프로그램은 멈출 것입니다.
+만약 이미지 파일 이름이 정수 숫자가 아니라면, 프로그램은 멈출 것입니다.
 
 만약 giuri_name.exe이 실행 되지 않으면, giuri_name.py을 실행합니다.
 
@@ -75,7 +75,7 @@ this program use python, pillow, pyinstaller.
 
 5 프로그램은 새 폴더를 생성하고, 그 폴더에 새 이미지를 넣습니다.
 
-만약 이미지 파일 이름이 숫자가 아니라면, 프로그램은 멈출 것입니다.
+만약 degree.txt 가 숫자가 아니라면, 프로그램은 멈출 것입니다.
 
 만약 giuri_txt.exe이 실행 되지 않으면, giuri_txt.py을 실행합니다.
 
@@ -87,7 +87,7 @@ this program use python, pillow, pyinstaller.
 
 chobocomputer@gmail.com
 
-![](/image/1.png)
-![](/image/2.png)
-![](/image/3.png)
-![](/image/4.png)
+![](/image/5.png)
+![](/image/6.png)
+![](/image/7.png)
+![](/image/8.png)
