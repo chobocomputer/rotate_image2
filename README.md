@@ -87,6 +87,8 @@ this program use python, pillow, pyinstaller.
 
 chobocomputer@gmail.com
 
+https://youtu.be/UGyh1Dm1-Zk
+
 ![](/image/5.png)
 ![](/image/6.png)
 ![](/image/7.png)
